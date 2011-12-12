@@ -27,7 +27,6 @@
         "url": "http://github.com/caolan/kanso.git"
     },
 
-    "main": "./src/api",
     "bugs": {"url": "http://github.com/caolan/kanso/issues"},
     "bin": {"kanso": "./scripts/kanso.js"}
 }
